@@ -1,0 +1,41 @@
+// **Timer for Silent Hill NTSC-J by FurryWulfz (ePSXe v2.0.0 only)** //
+
+state("ePSXe")
+{
+
+         uint Timer: "ePSXe.exe", 0x8D91D4;
+
+}
+
+
+isLoading
+{
+    return true;
+}
+
+start
+{
+
+return true;
+
+}
+
+reset
+{
+  
+return false;
+
+}
+
+split
+{
+
+ 
+
+}
+
+
+gameTime
+{
+    return TimeSpan.FromSeconds(current.Timer/4096f);
+}
