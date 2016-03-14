@@ -1,4 +1,4 @@
-// **Timer for Silent Hill NTSC-J by FurryWulfz (ePSXe v2.0.0 only)** //
+// **Timer for Silent Hill NTSC-J by FurryWulfz (ePSXe v2.0 only)** //
 
 state("ePSXe")
 {
