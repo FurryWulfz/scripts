@@ -1,0 +1,42 @@
+// **IGT Script for Silent Hill 2: Directors Cut** //
+// **~ Made by FurryWulfz** //
+
+state("sh2pc")
+{
+
+         float Timer: "sh2pc.exe", 0x19BBF94;
+
+}
+
+
+isLoading
+{
+    return true;
+}
+
+start
+{
+
+return true;
+
+}
+
+reset
+{
+  
+return false;
+
+}
+
+split
+{
+
+ 
+
+}
+
+
+gameTime
+{
+    return TimeSpan.FromSeconds(current.Timer);
+}
