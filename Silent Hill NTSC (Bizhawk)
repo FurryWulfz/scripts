@@ -1,0 +1,41 @@
+// **Timer for Silent Hill NTSC for Bizhawk version 1.11.0 by FurryWulfz** //
+
+state("EmuHawk")
+{
+
+         uint Timer: "octoshock.dll", 0x3A762C;
+
+}
+
+
+isLoading
+{
+    return true;
+}
+
+start
+{
+
+return true;
+
+}
+
+reset
+{
+  
+return false;
+
+}
+
+split
+{
+
+ 
+
+}
+
+
+gameTime
+{
+    return TimeSpan.FromSeconds(current.Timer/4096f);
+}
