@@ -1,0 +1,15 @@
+state("ePSXe")
+{
+        uint dinotime : "ePSXe.exe", 0x8C8CD4;
+      
+}
+
+isLoading
+{
+    return true;
+}
+
+gameTime
+{
+    return TimeSpan.FromSeconds(current.dinotime / 60f);
+}
