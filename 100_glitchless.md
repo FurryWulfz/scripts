@@ -246,7 +246,7 @@ Head outside
 
 #### Menus
 
-Change Battle Gauge to 1  
+Change Battle Gauge Speed to 3  
 
 #### Decisive Battle: *Dragon Tank*
 
