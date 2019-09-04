@@ -246,6 +246,7 @@ Head outside
 
 #### Menus
 
+Check Crono's HP, if he's not full then heal him to full
 Change Battle Gauge Speed to 3  
 
 #### Decisive Battle: *Dragon Tank*
