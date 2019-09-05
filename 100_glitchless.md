@@ -99,8 +99,8 @@ Pick up hair clip
 
 | Characters    | Action     | Target                    |
 | :--           | :--        | :--                       |
-| Chrono, Lucca | Fire Whirl | Three Leftmost Naga-ettes |
-| Lucca         | Fire Toss  | Right Naga-ette           |
+| Chrono, Lucca | Fire Whirl | Two Rightmost Naga-ettes |
+| Lucca         | Fire Whirl  | Two Leftmost Naga-ettes |
 
 Frog joins party  
 Play the organ  
