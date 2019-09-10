@@ -290,6 +290,7 @@ Exit the Lab
 | :shirt:  | *Hide Tunic*   | *Hide Tunic* |
 | :ring:   | *PowerGlove*   | *Ribbon*     |
 
+Organize Items  
 **USE**: Shelter  
 Set Battle Gauge to 1  
 
