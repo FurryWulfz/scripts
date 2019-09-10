@@ -316,6 +316,8 @@ Cross the rafters
 | Lucca      | Attack     | Guardian |
 | Chrono     | Attack     | Guardian |
 
+**GET**: Mid-Tonic after Guardian Battle  
+
 > Do not attack Guardian until both Bits are dead  
 > Lucca heal if someone is in danger  
 > Everyone heals themselves if Delta Attack is used  
